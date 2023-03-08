@@ -1,0 +1,705 @@
+A1_Score,A2_Score,age,gender,ethnicity,jaundice,family_autism_hist,country_of_res,used_app_before,ASD
+1.0,1.0,,f,,,,United States,0.0,0
+1.0,1.0,,m,,0.0,1.0,Brazil,,0
+1.0,1.0,27.0,m,Hispanic,1.0,,,,1
+,1.0,35.0,f,White,0.0,1.0,United States,,0
+1.0,0.0,40.0,f,,0.0,0.0,Egypt,0.0,0
+,1.0,,m,Other,,0.0,,0.0,1
+,1.0,17.0,f,,0.0,0.0,United States,0.0,0
+1.0,,,m,White,,0.0,New Zealand,0.0,0
+1.0,1.0,29.0,m,White,0.0,0.0,United States,0.0,0
+,1.0,17.0,m,Asian,,1.0,Bahamas,,1
+1.0,1.0,33.0,m,White,0.0,,United States,0.0,1
+,,18.0,f,,0.0,0.0,Burundi,0.0,0
+,,,,Unknown,0.0,0.0,Bahamas,,0
+1.0,0.0,17.0,,Unknown,,0.0,Austria,0.0,0
+1.0,,,,,,,Argentina,0.0,0
+,1.0,18.0,,White,0.0,,New Zealand,0.0,0
+,0.0,31.0,m,,,,Jordan,0.0,0
+0.0,0.0,30.0,m,White,0.0,0.0,Ireland,,0
+0.0,,35.0,,White,0.0,,United Arab Emirates,0.0,0
+0.0,,34.0,m,Unknown,1.0,,,0.0,0
+0.0,1.0,38.0,m,Unknown,0.0,0.0,United Arab Emirates,0.0,0
+0.0,0.0,,,,0.0,,United Arab Emirates,0.0,0
+,0.0,,m,White,0.0,0.0,Afghanistan,0.0,0
+0.0,0.0,42.0,m,White,1.0,,United Arab Emirates,0.0,0
+1.0,1.0,43.0,,Unknown,0.0,,Lebanon,0.0,0
+,1.0,24.0,f,Unknown,1.0,0.0,Afghanistan,0.0,0
+0.0,0.0,40.0,m,NHOPI,1.0,1.0,United Arab Emirates,0.0,0
+0.0,0.0,40.0,m,White,1.0,,Afghanistan,0.0,0
+0.0,0.0,48.0,m,Black,0.0,0.0,New Zealand,0.0,0
+0.0,1.0,31.0,m,White,,0.0,,0.0,0
+0.0,0.0,18.0,m,,0.0,0.0,,0.0,0
+1.0,0.0,37.0,,,0.0,1.0,,,1
+1.0,1.0,,,Other,0.0,,New Zealand,0.0,0
+,1.0,,f,White,,0.0,South Africa,0.0,1
+1.0,1.0,18.0,f,,0.0,0.0,South Africa,0.0,1
+0.0,0.0,55.0,m,White,0.0,0.0,New Zealand,0.0,0
+0.0,,50.0,m,White,0.0,0.0,United Arab Emirates,0.0,0
+1.0,,,f,,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,53.0,,,0.0,0.0,New Zealand,,1
+,0.0,35.0,,White,0.0,1.0,United States,0.0,1
+1.0,0.0,,f,Hispanic,1.0,,Italy,,1
+,0.0,28.0,f,Asian,0.0,0.0,Pakistan,0.0,0
+,,,,White,,,Egypt,0.0,0
+0.0,1.0,36.0,f,White,1.0,1.0,,0.0,0
+1.0,,27.0,,White,0.0,0.0,New Zealand,,1
+,0.0,53.0,f,White,0.0,0.0,New Zealand,,1
+,1.0,,f,NHOPI,0.0,0.0,New Zealand,0.0,0
+0.0,0.0,24.0,m,NHOPI,,0.0,New Zealand,,0
+0.0,1.0,55.0,m,White,0.0,0.0,,0.0,0
+1.0,1.0,30.0,,Asian,0.0,0.0,Bangladesh,0.0,0
+,,21.0,,Hispanic,0.0,0.0,,0.0,0
+1.0,1.0,,,Black,0.0,0.0,,0.0,1
+1.0,0.0,383.0,f,NHOPI,,,,0.0,0
+1.0,,21.0,m,Hispanic,0.0,1.0,Brazil,,1
+1.0,1.0,47.0,m,,,0.0,United States,0.0,1
+1.0,1.0,30.0,f,,0.0,0.0,China,0.0,1
+,0.0,28.0,,White,0.0,0.0,Australia,0.0,1
+1.0,1.0,43.0,f,White,0.0,0.0,Australia,0.0,1
+1.0,,32.0,f,Asian,0.0,1.0,Canada,,0
+1.0,1.0,44.0,,,,,Australia,,0
+1.0,0.0,,,,0.0,0.0,Canada,0.0,1
+1.0,0.0,20.0,f,,0.0,,,1.0,1
+,0.0,,m,Unknown,,0.0,Saudi Arabia,0.0,0
+1.0,0.0,19.0,m,White,,0.0,,0.0,0
+,1.0,29.0,f,White,,,,0.0,1
+1.0,,21.0,,White,,0.0,,0.0,0
+0.0,1.0,,m,,0.0,0.0,,0.0,0
+1.0,0.0,21.0,m,Hispanic,0.0,0.0,,0.0,0
+1.0,0.0,35.0,m,White,0.0,0.0,Saudi Arabia,0.0,0
+,0.0,42.0,,,,0.0,New Zealand,0.0,0
+,1.0,29.0,f,Asian,0.0,0.0,New Zealand,0.0,0
+,0.0,58.0,m,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,21.0,m,Other,0.0,0.0,,0.0,0
+1.0,,21.0,m,Other,0.0,0.0,United States,0.0,0
+0.0,,37.0,f,,0.0,1.0,United States,0.0,0
+1.0,,21.0,m,Hispanic,0.0,0.0,United States,0.0,1
+,0.0,20.0,,,,0.0,United States,0.0,0
+1.0,1.0,33.0,f,Black,,1.0,,0.0,1
+1.0,0.0,20.0,m,White,0.0,0.0,United States,0.0,0
+1.0,1.0,45.0,f,Unknown,1.0,0.0,Jordan,0.0,0
+0.0,,32.0,m,Unknown,1.0,1.0,Afghanistan,0.0,0
+,0.0,30.0,m,Unknown,,0.0,,0.0,0
+1.0,1.0,33.0,,White,0.0,1.0,,0.0,1
+0.0,0.0,,,White,0.0,,Jordan,0.0,0
+,1.0,17.0,f,White,0.0,0.0,,0.0,0
+1.0,0.0,27.0,,White,0.0,0.0,United States,,0
+1.0,0.0,35.0,f,White,0.0,1.0,Afghanistan,,1
+,,37.0,,White,,0.0,,0.0,0
+1.0,,30.0,f,White,0.0,1.0,,0.0,0
+,1.0,29.0,f,White,0.0,0.0,New Zealand,0.0,1
+,0.0,,f,White,0.0,1.0,,0.0,0
+0.0,,,f,Unknown,0.0,0.0,Jordan,0.0,0
+,0.0,,f,NHOPI,0.0,0.0,New Zealand,0.0,0
+,1.0,,f,Hispanic,0.0,,Brazil,0.0,1
+,,42.0,f,,0.0,1.0,,,1
+1.0,1.0,,,,,0.0,United Kingdom,0.0,0
+1.0,0.0,28.0,f,,,0.0,Australia,0.0,0
+1.0,0.0,22.0,m,Other,0.0,0.0,New Zealand,,0
+,,26.0,,NHOPI,0.0,0.0,,0.0,0
+0.0,0.0,21.0,m,NHOPI,0.0,0.0,Oman,0.0,0
+0.0,1.0,26.0,f,Asian,,,India,,0
+1.0,0.0,39.0,f,,,,Philippines,,0
+1.0,0.0,26.0,m,Asian,,0.0,New Zealand,0.0,0
+,,,m,Asian,,0.0,,0.0,0
+,0.0,,m,Asian,0.0,0.0,India,0.0,0
+,0.0,25.0,,Asian,0.0,0.0,India,0.0,0
+0.0,,,m,Asian,0.0,,New Zealand,0.0,0
+,1.0,,f,White,0.0,0.0,United States,0.0,1
+1.0,0.0,19.0,,,0.0,,,,0
+1.0,0.0,19.0,f,Asian,0.0,,India,0.0,0
+,0.0,,f,White,0.0,1.0,New Zealand,0.0,1
+0.0,,23.0,m,,0.0,,,0.0,0
+1.0,,31.0,m,Asian,0.0,0.0,Sri Lanka,0.0,0
+0.0,1.0,,m,Asian,,0.0,New Zealand,0.0,0
+,1.0,29.0,f,White,0.0,0.0,United Arab Emirates,0.0,1
+1.0,0.0,38.0,,,0.0,0.0,United Kingdom,0.0,1
+1.0,,,f,,0.0,0.0,United States,0.0,1
+,1.0,,,White,0.0,0.0,United States,0.0,0
+1.0,1.0,,f,White,0.0,0.0,Canada,0.0,1
+1.0,,42.0,,White,0.0,0.0,,0.0,1
+1.0,1.0,20.0,m,,0.0,0.0,United Kingdom,0.0,1
+1.0,,,f,,0.0,0.0,United States,0.0,1
+1.0,0.0,20.0,f,Black,0.0,0.0,Spain,,0
+,0.0,30.0,m,,,0.0,Sierra Leone,0.0,1
+,,,f,White,0.0,1.0,Australia,0.0,1
+1.0,1.0,26.0,f,White,0.0,0.0,New Zealand,0.0,1
+,0.0,26.0,f,,0.0,0.0,Australia,,0
+1.0,0.0,31.0,m,White,0.0,,,,0
+1.0,0.0,40.0,,White,0.0,,,,0
+1.0,0.0,39.0,f,White,0.0,1.0,Ireland,0.0,0
+1.0,1.0,18.0,f,White,0.0,0.0,United States,0.0,0
+1.0,,24.0,m,,0.0,0.0,Ethiopia,0.0,0
+1.0,1.0,23.0,,Asian,,0.0,,0.0,0
+,0.0,,m,Asian,0.0,0.0,India,0.0,0
+0.0,1.0,24.0,m,Asian,0.0,0.0,New Zealand,0.0,0
+,0.0,27.0,,Asian,0.0,0.0,,0.0,0
+0.0,1.0,,m,Asian,0.0,0.0,New Zealand,0.0,0
+0.0,,,,,0.0,,India,0.0,0
+1.0,0.0,22.0,m,Asian,,0.0,New Zealand,,0
+0.0,1.0,40.0,f,Asian,0.0,0.0,New Zealand,0.0,0
+0.0,0.0,23.0,m,Asian,0.0,0.0,India,,0
+1.0,0.0,29.0,m,,0.0,0.0,India,,0
+,0.0,,m,Asian,0.0,0.0,India,0.0,0
+,0.0,27.0,m,Asian,0.0,0.0,,,0
+0.0,0.0,22.0,m,,0.0,0.0,,0.0,0
+1.0,,,,White,0.0,0.0,,0.0,1
+1.0,0.0,20.0,,White,,,,0.0,1
+1.0,1.0,19.0,f,White,0.0,0.0,Romania,0.0,1
+1.0,,37.0,f,Other,,0.0,United States,0.0,1
+1.0,,35.0,,White,1.0,1.0,United States,0.0,1
+,0.0,26.0,m,,0.0,0.0,New Zealand,0.0,0
+,1.0,23.0,,Asian,,,,0.0,1
+1.0,1.0,32.0,f,Asian,0.0,,,0.0,0
+0.0,0.0,30.0,m,,,0.0,,,0
+,0.0,,,Asian,0.0,0.0,Sri Lanka,,0
+0.0,0.0,28.0,f,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,29.0,f,Asian,,0.0,Sri Lanka,0.0,0
+0.0,,,f,,0.0,0.0,Sri Lanka,,0
+1.0,0.0,,f,Asian,,0.0,India,0.0,0
+1.0,0.0,31.0,m,Asian,0.0,0.0,India,0.0,0
+,0.0,36.0,m,,0.0,0.0,India,,0
+0.0,1.0,32.0,,Asian,,0.0,India,0.0,0
+0.0,0.0,34.0,f,Asian,0.0,,New Zealand,0.0,0
+1.0,,,m,Asian,0.0,,Sri Lanka,0.0,0
+1.0,,,f,Asian,0.0,0.0,New Zealand,0.0,0
+,0.0,,m,Asian,,0.0,Sri Lanka,0.0,0
+0.0,0.0,26.0,f,Other,0.0,,India,0.0,0
+,0.0,,f,Asian,0.0,0.0,Sri Lanka,0.0,0
+,,,,,0.0,,,0.0,0
+1.0,1.0,,f,Hispanic,0.0,1.0,Brazil,0.0,1
+1.0,0.0,55.0,m,,0.0,0.0,United States,0.0,0
+,,23.0,f,,0.0,0.0,New Zealand,0.0,0
+0.0,,22.0,f,Asian,,0.0,,0.0,0
+1.0,0.0,42.0,f,White,0.0,0.0,France,0.0,0
+1.0,0.0,54.0,m,White,,0.0,Canada,0.0,0
+1.0,1.0,43.0,f,Black,0.0,,,,0
+1.0,1.0,,f,Black,0.0,,,,1
+0.0,0.0,29.0,,White,0.0,0.0,Iran,0.0,0
+1.0,0.0,29.0,m,White,0.0,0.0,Iran,0.0,0
+1.0,0.0,37.0,m,White,,0.0,Australia,0.0,0
+1.0,0.0,39.0,f,White,0.0,,Australia,,0
+1.0,1.0,18.0,f,Asian,0.0,0.0,Viet Nam,0.0,0
+0.0,1.0,31.0,,White,,0.0,United States,,0
+0.0,,34.0,,Asian,,0.0,New Zealand,0.0,0
+0.0,0.0,22.0,m,White,0.0,0.0,United States,0.0,0
+1.0,0.0,,m,Asian,0.0,,,0.0,1
+1.0,0.0,,m,,0.0,1.0,,0.0,0
+1.0,0.0,28.0,f,White,0.0,0.0,,0.0,0
+1.0,,53.0,f,White,0.0,1.0,United States,0.0,1
+1.0,1.0,,,,0.0,,United Kingdom,0.0,0
+,1.0,37.0,m,White,0.0,0.0,United Kingdom,,1
+,,42.0,m,Hispanic,,1.0,Costa Rica,0.0,0
+1.0,0.0,43.0,m,Hispanic,,0.0,,0.0,0
+1.0,0.0,,f,Asian,0.0,0.0,United Kingdom,0.0,0
+0.0,,31.0,m,White,0.0,,United Kingdom,0.0,0
+,0.0,53.0,f,,0.0,0.0,United States,0.0,1
+1.0,1.0,28.0,m,White,0.0,0.0,United States,0.0,1
+,,,m,,0.0,,,0.0,1
+,1.0,31.0,m,White,0.0,0.0,,0.0,1
+1.0,1.0,31.0,f,NHOPI,0.0,,United States,,0
+1.0,1.0,21.0,f,White,0.0,0.0,,0.0,1
+1.0,1.0,25.0,,,,0.0,United States,0.0,0
+1.0,1.0,25.0,f,White,0.0,0.0,United States,0.0,1
+1.0,1.0,60.0,f,White,,1.0,United States,,1
+1.0,0.0,39.0,m,,,1.0,,0.0,0
+1.0,1.0,,,White,,0.0,United States,,1
+,,20.0,,,,1.0,,0.0,1
+1.0,1.0,25.0,f,,0.0,,United States,1.0,1
+1.0,1.0,,m,White,0.0,,United Kingdom,0.0,0
+1.0,,28.0,f,,0.0,0.0,United States,0.0,1
+1.0,0.0,37.0,f,White,,1.0,United Kingdom,0.0,1
+0.0,,30.0,m,Asian,0.0,1.0,,0.0,0
+1.0,,32.0,f,White,0.0,0.0,United Kingdom,0.0,0
+1.0,0.0,,f,White,0.0,,United States,0.0,0
+1.0,1.0,42.0,m,White,0.0,,,0.0,0
+1.0,1.0,22.0,f,Black,,,Spain,0.0,1
+,,37.0,f,,,0.0,United Arab Emirates,0.0,0
+1.0,1.0,39.0,,White,,,United States,,0
+1.0,1.0,18.0,m,White,0.0,0.0,Bangladesh,0.0,1
+,0.0,,f,White,0.0,,United States,0.0,0
+1.0,1.0,42.0,,White,,0.0,,0.0,0
+0.0,0.0,27.0,f,Unknown,0.0,0.0,,0.0,0
+1.0,,22.0,m,White,,,United Kingdom,,0
+1.0,0.0,22.0,m,White,0.0,0.0,United Kingdom,,1
+1.0,1.0,,,,0.0,0.0,United Kingdom,0.0,1
+0.0,1.0,28.0,f,White,,0.0,,0.0,0
+1.0,1.0,17.0,m,Asian,1.0,0.0,India,0.0,1
+0.0,1.0,28.0,m,,0.0,0.0,United States,0.0,0
+0.0,0.0,21.0,m,Hispanic,0.0,0.0,Mexico,,0
+1.0,1.0,31.0,,Asian,,0.0,New Zealand,0.0,1
+1.0,0.0,20.0,m,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,21.0,,,0.0,0.0,United Kingdom,0.0,0
+1.0,,22.0,m,White,0.0,0.0,,0.0,0
+0.0,1.0,21.0,,White,0.0,0.0,New Zealand,0.0,0
+0.0,1.0,24.0,m,Black,0.0,0.0,New Zealand,0.0,0
+,0.0,24.0,m,,0.0,,India,0.0,0
+1.0,0.0,25.0,m,Asian,0.0,0.0,New Zealand,0.0,0
+,,17.0,,Asian,,0.0,New Zealand,,0
+,1.0,21.0,m,,0.0,0.0,Russia,0.0,0
+1.0,,23.0,m,,0.0,,,,0
+1.0,0.0,,m,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,22.0,m,,,0.0,,0.0,0
+,,24.0,f,Asian,0.0,,India,0.0,0
+0.0,0.0,,,Other,0.0,0.0,New Zealand,,0
+,,,m,Asian,0.0,,,0.0,0
+1.0,0.0,29.0,,,0.0,0.0,India,0.0,0
+1.0,0.0,20.0,m,,0.0,,New Zealand,0.0,0
+0.0,0.0,23.0,m,White,,0.0,New Zealand,0.0,0
+,0.0,,m,Asian,0.0,0.0,,,0
+1.0,,,m,Asian,,0.0,New Zealand,0.0,1
+1.0,0.0,41.0,m,Asian,0.0,,New Zealand,0.0,0
+1.0,,24.0,m,,0.0,0.0,,,0
+0.0,0.0,35.0,,Asian,0.0,,,0.0,0
+0.0,,,m,Asian,0.0,0.0,,,0
+1.0,0.0,36.0,m,,0.0,,,0.0,0
+1.0,,33.0,,White,0.0,0.0,Armenia,0.0,0
+1.0,,24.0,,Asian,,,India,0.0,0
+,,25.0,m,,0.0,0.0,,,0
+1.0,0.0,25.0,m,Asian,0.0,0.0,India,,0
+1.0,0.0,25.0,,Asian,0.0,0.0,India,0.0,0
+0.0,0.0,24.0,,Asian,0.0,0.0,India,0.0,0
+,,27.0,f,,0.0,0.0,,0.0,0
+1.0,0.0,26.0,m,Asian,0.0,0.0,India,0.0,0
+0.0,0.0,26.0,m,,0.0,0.0,New Zealand,,0
+1.0,0.0,23.0,,Asian,0.0,,India,0.0,0
+1.0,1.0,,m,,0.0,0.0,New Zealand,0.0,1
+1.0,0.0,25.0,m,Asian,,0.0,Iceland,0.0,0
+1.0,0.0,23.0,m,,0.0,,,0.0,0
+1.0,,,f,White,0.0,,United States,0.0,0
+1.0,0.0,20.0,f,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,22.0,f,Unknown,0.0,1.0,Russia,,1
+1.0,1.0,33.0,f,Black,0.0,1.0,France,0.0,1
+,1.0,46.0,m,,0.0,0.0,,0.0,1
+1.0,1.0,,,White,0.0,,United Kingdom,0.0,0
+,,45.0,f,White,0.0,1.0,United States,,0
+0.0,1.0,26.0,,Asian,0.0,,,0.0,0
+1.0,0.0,,m,,0.0,0.0,Jordan,0.0,0
+1.0,,32.0,f,,,1.0,Jordan,0.0,0
+1.0,,38.0,f,White,0.0,,,,1
+,1.0,26.0,,Hispanic,1.0,,Nicaragua,0.0,0
+,0.0,29.0,,Hispanic,0.0,,,0.0,0
+1.0,1.0,33.0,,White,0.0,,Australia,,1
+0.0,1.0,,,,0.0,0.0,France,,1
+1.0,1.0,44.0,,,0.0,0.0,United States,0.0,1
+0.0,1.0,47.0,f,White,1.0,,United Kingdom,,0
+0.0,0.0,32.0,,Unknown,,0.0,Hong Kong,0.0,0
+0.0,0.0,40.0,,White,0.0,0.0,New Zealand,0.0,0
+,0.0,40.0,m,White,0.0,,United States,0.0,0
+0.0,0.0,44.0,f,White,0.0,0.0,New Zealand,0.0,0
+1.0,,,m,White,1.0,0.0,United Kingdom,0.0,1
+1.0,1.0,,,White,0.0,0.0,Ireland,,1
+,,32.0,f,Black,0.0,0.0,Canada,0.0,1
+0.0,1.0,,m,White,0.0,,United Kingdom,,0
+,0.0,28.0,,,0.0,1.0,United Kingdom,0.0,0
+0.0,,40.0,f,,0.0,0.0,Afghanistan,0.0,0
+1.0,0.0,,,White,0.0,0.0,,,1
+1.0,1.0,19.0,f,White,1.0,0.0,United Kingdom,0.0,1
+1.0,1.0,55.0,m,White,,1.0,United States,0.0,1
+1.0,,,,White,1.0,0.0,Australia,0.0,0
+1.0,,19.0,f,White,1.0,,United Kingdom,,1
+1.0,,,m,White,0.0,0.0,Ireland,0.0,0
+1.0,,33.0,f,White,1.0,,United Kingdom,,1
+,0.0,48.0,,White,0.0,0.0,,0.0,0
+0.0,0.0,37.0,f,Other,0.0,0.0,United Kingdom,0.0,0
+1.0,1.0,,m,Asian,0.0,,Afghanistan,0.0,0
+,1.0,37.0,f,White,0.0,0.0,United Kingdom,0.0,0
+1.0,0.0,28.0,f,Unknown,0.0,0.0,Saudi Arabia,0.0,1
+,,20.0,f,White,0.0,0.0,Austria,0.0,1
+1.0,,,f,Other,0.0,0.0,United States,,1
+1.0,,58.0,f,White,0.0,0.0,,0.0,1
+,,36.0,,,,0.0,United States,0.0,0
+0.0,0.0,,m,White,1.0,0.0,,0.0,0
+,0.0,19.0,m,Hispanic,,0.0,United States,,1
+1.0,0.0,,,Hispanic,0.0,0.0,United States,1.0,1
+1.0,0.0,,f,White,0.0,0.0,New Zealand,0.0,0
+,1.0,,m,Unknown,,0.0,United Arab Emirates,,0
+0.0,1.0,24.0,f,White,,0.0,United Arab Emirates,0.0,0
+0.0,0.0,,,,0.0,,United Arab Emirates,0.0,0
+1.0,,21.0,m,Other,0.0,,United Arab Emirates,0.0,0
+0.0,,20.0,m,,0.0,0.0,United Arab Emirates,0.0,0
+,1.0,18.0,,White,0.0,0.0,United Arab Emirates,0.0,0
+0.0,1.0,,,White,0.0,0.0,,,0
+1.0,,22.0,,White,0.0,0.0,United Arab Emirates,0.0,1
+1.0,,18.0,f,Asian,,1.0,Bangladesh,0.0,0
+,0.0,37.0,f,Unknown,0.0,0.0,United Arab Emirates,,0
+1.0,1.0,18.0,m,White,0.0,,United Arab Emirates,0.0,0
+1.0,1.0,18.0,m,White,0.0,0.0,United Arab Emirates,0.0,0
+0.0,,18.0,m,,0.0,,,0.0,0
+,,18.0,m,White,0.0,0.0,United Arab Emirates,0.0,0
+0.0,1.0,18.0,m,White,0.0,0.0,United Arab Emirates,0.0,0
+,,18.0,m,,,0.0,United Arab Emirates,,0
+1.0,1.0,19.0,m,White,,,Austria,0.0,1
+,0.0,,m,White,0.0,0.0,United Kingdom,0.0,1
+1.0,0.0,,f,Asian,0.0,0.0,Canada,,0
+1.0,,50.0,m,White,1.0,,United Kingdom,0.0,0
+1.0,1.0,40.0,m,White,0.0,0.0,,0.0,0
+1.0,,,m,White,0.0,,,0.0,0
+1.0,,,,,0.0,0.0,Jordan,0.0,0
+1.0,0.0,,,,0.0,0.0,Jordan,0.0,0
+,0.0,21.0,,Unknown,0.0,0.0,,0.0,0
+1.0,,21.0,f,Unknown,0.0,0.0,Jordan,0.0,0
+1.0,1.0,19.0,m,Unknown,0.0,,Jordan,,0
+1.0,0.0,21.0,f,Unknown,,0.0,Jordan,0.0,0
+1.0,0.0,,m,Unknown,0.0,0.0,Jordan,0.0,0
+,,,f,,0.0,,Jordan,0.0,0
+,0.0,21.0,m,Unknown,0.0,,Jordan,0.0,0
+1.0,,,m,Unknown,,0.0,Jordan,0.0,0
+0.0,0.0,23.0,m,Unknown,0.0,0.0,Jordan,,0
+,0.0,20.0,f,Unknown,0.0,0.0,Jordan,0.0,1
+1.0,1.0,21.0,f,Unknown,,0.0,Jordan,,0
+1.0,1.0,20.0,,Unknown,0.0,,Argentina,,1
+1.0,,19.0,m,Unknown,,0.0,Jordan,0.0,0
+0.0,,,m,,0.0,0.0,Jordan,,0
+1.0,0.0,26.0,m,Unknown,0.0,1.0,,0.0,0
+,0.0,21.0,m,Unknown,,0.0,Jordan,,0
+0.0,0.0,19.0,,Unknown,,0.0,Japan,0.0,0
+1.0,,22.0,m,White,0.0,0.0,,0.0,0
+1.0,0.0,,f,,0.0,,United Arab Emirates,,0
+,0.0,,m,White,0.0,,United Arab Emirates,0.0,0
+0.0,,20.0,,White,0.0,0.0,United Arab Emirates,0.0,0
+,0.0,23.0,m,White,0.0,,United Arab Emirates,0.0,0
+0.0,0.0,19.0,,Unknown,0.0,0.0,Ukraine,,0
+,,20.0,m,White,0.0,,United Arab Emirates,,0
+0.0,,24.0,m,White,0.0,,United Arab Emirates,0.0,0
+0.0,1.0,19.0,,White,0.0,,,0.0,0
+,0.0,20.0,m,,,0.0,United Arab Emirates,,0
+1.0,0.0,,,White,0.0,1.0,,,0
+,0.0,20.0,m,Other,0.0,0.0,,0.0,0
+1.0,0.0,20.0,,White,,,United Arab Emirates,0.0,0
+,0.0,20.0,m,,1.0,,United Arab Emirates,0.0,0
+,0.0,20.0,f,,,0.0,United Arab Emirates,0.0,0
+,0.0,,f,Asian,0.0,0.0,,0.0,0
+0.0,1.0,19.0,,Unknown,0.0,0.0,Kazakhstan,0.0,0
+1.0,0.0,,f,,0.0,0.0,,0.0,0
+1.0,0.0,20.0,m,,,,,0.0,0
+1.0,,25.0,m,White,1.0,1.0,Armenia,,0
+1.0,0.0,20.0,f,White,,0.0,United Arab Emirates,0.0,0
+1.0,0.0,,,,0.0,0.0,AmericanSamoa,0.0,0
+1.0,0.0,20.0,f,Unknown,,0.0,United Arab Emirates,0.0,0
+0.0,,20.0,,Unknown,,0.0,United Arab Emirates,0.0,0
+0.0,0.0,20.0,f,Unknown,0.0,0.0,Jordan,0.0,0
+1.0,0.0,23.0,f,Unknown,0.0,0.0,Jordan,,0
+,1.0,,,Unknown,0.0,0.0,Jordan,0.0,1
+1.0,0.0,22.0,m,Unknown,0.0,0.0,Jordan,0.0,0
+1.0,1.0,21.0,f,Unknown,0.0,0.0,Jordan,0.0,0
+1.0,0.0,20.0,f,,0.0,,Jordan,0.0,0
+,0.0,22.0,f,,,,Jordan,,0
+1.0,0.0,,f,,,0.0,Jordan,,0
+1.0,1.0,20.0,f,Unknown,0.0,0.0,Jordan,0.0,0
+0.0,1.0,20.0,f,White,0.0,0.0,United Arab Emirates,0.0,0
+1.0,0.0,21.0,m,,0.0,,Jordan,0.0,0
+1.0,0.0,21.0,m,,0.0,,United Arab Emirates,0.0,0
+0.0,,23.0,f,,,0.0,United Arab Emirates,0.0,0
+1.0,1.0,21.0,,White,,0.0,United Arab Emirates,0.0,0
+1.0,0.0,,,Black,0.0,,United Arab Emirates,0.0,0
+0.0,1.0,,f,,0.0,,,0.0,0
+1.0,1.0,,f,,,,,0.0,0
+0.0,1.0,21.0,,,0.0,0.0,United Arab Emirates,0.0,0
+0.0,1.0,26.0,m,,0.0,0.0,,0.0,0
+,0.0,,f,Unknown,0.0,0.0,,0.0,0
+1.0,0.0,20.0,,Unknown,0.0,0.0,United Arab Emirates,0.0,0
+1.0,,26.0,f,Unknown,0.0,0.0,United Arab Emirates,0.0,0
+1.0,,,f,,,0.0,United Arab Emirates,0.0,0
+1.0,,28.0,f,Unknown,,0.0,,,0
+,,,f,White,0.0,,United Arab Emirates,0.0,0
+1.0,,20.0,f,White,,,United Arab Emirates,0.0,0
+0.0,1.0,19.0,f,Black,0.0,0.0,United Arab Emirates,0.0,0
+1.0,0.0,24.0,,Asian,0.0,0.0,India,,1
+1.0,0.0,19.0,f,Asian,0.0,0.0,United Arab Emirates,0.0,0
+1.0,1.0,22.0,,White,0.0,0.0,United Arab Emirates,0.0,0
+1.0,,,,White,,0.0,,0.0,0
+0.0,1.0,21.0,m,White,0.0,,,0.0,0
+0.0,,,f,Other,0.0,0.0,United Arab Emirates,0.0,0
+0.0,,18.0,f,White,0.0,0.0,,0.0,0
+,0.0,,f,White,0.0,0.0,United Arab Emirates,0.0,1
+,0.0,19.0,f,White,,0.0,United Arab Emirates,0.0,0
+1.0,0.0,31.0,,White,1.0,0.0,United Arab Emirates,0.0,0
+1.0,,19.0,,White,0.0,0.0,United Arab Emirates,0.0,0
+1.0,0.0,21.0,f,White,0.0,0.0,,,0
+,0.0,20.0,m,,0.0,,,0.0,0
+1.0,,26.0,f,White,,,United Arab Emirates,0.0,0
+,,,,White,0.0,0.0,,0.0,0
+1.0,,,f,White,0.0,,United Arab Emirates,0.0,0
+0.0,1.0,29.0,,,0.0,0.0,United Arab Emirates,0.0,0
+1.0,1.0,23.0,m,,,0.0,United Arab Emirates,,0
+1.0,0.0,23.0,m,White,0.0,,United Arab Emirates,,0
+1.0,0.0,24.0,,Asian,0.0,1.0,India,0.0,1
+1.0,0.0,21.0,,Unknown,0.0,0.0,Jordan,0.0,0
+,0.0,20.0,f,Unknown,0.0,0.0,Brazil,1.0,0
+,0.0,20.0,m,Unknown,0.0,,Jordan,0.0,0
+1.0,1.0,32.0,,Black,0.0,0.0,France,0.0,1
+1.0,,61.0,m,White,,1.0,Uruguay,0.0,1
+,0.0,,m,Unknown,0.0,0.0,Jordan,,0
+1.0,,,f,,0.0,0.0,Italy,0.0,1
+,0.0,34.0,f,,,0.0,,,0
+0.0,0.0,23.0,f,White,,0.0,United Arab Emirates,1.0,0
+1.0,1.0,19.0,,,,0.0,,0.0,0
+1.0,1.0,36.0,f,Other,0.0,,,0.0,0
+1.0,1.0,21.0,f,Unknown,0.0,0.0,,0.0,0
+0.0,1.0,23.0,m,White,,0.0,United States,,0
+1.0,0.0,17.0,,Black,,,United States,,0
+1.0,0.0,22.0,m,White,0.0,0.0,Portugal,0.0,0
+,1.0,,m,White,0.0,,Australia,0.0,0
+,1.0,23.0,f,Asian,0.0,0.0,Malaysia,,1
+,,,,,,1.0,Sweden,0.0,1
+,0.0,21.0,,,0.0,1.0,,0.0,0
+1.0,0.0,20.0,f,,0.0,,,0.0,1
+1.0,0.0,29.0,m,,0.0,0.0,Netherlands,0.0,0
+1.0,1.0,59.0,m,White,0.0,0.0,United States,0.0,1
+1.0,,,f,,0.0,0.0,Netherlands,,0
+1.0,1.0,19.0,f,White,0.0,,United Arab Emirates,0.0,0
+0.0,0.0,24.0,,White,,,United Arab Emirates,0.0,0
+1.0,,,,,0.0,0.0,,0.0,1
+0.0,0.0,19.0,,Unknown,,0.0,Jordan,,0
+,,17.0,f,Black,0.0,0.0,United Arab Emirates,0.0,0
+1.0,0.0,52.0,,,1.0,,United Kingdom,0.0,0
+1.0,1.0,18.0,,,0.0,0.0,United Arab Emirates,,0
+0.0,0.0,30.0,m,,,0.0,,0.0,0
+0.0,1.0,18.0,m,White,1.0,0.0,New Zealand,0.0,1
+1.0,1.0,27.0,m,Hispanic,0.0,,Ecuador,0.0,0
+,0.0,52.0,f,White,0.0,,United Kingdom,0.0,0
+0.0,,,f,Asian,0.0,0.0,Viet Nam,0.0,0
+,1.0,25.0,f,Other,0.0,,Afghanistan,0.0,0
+0.0,,29.0,f,White,0.0,,United Kingdom,0.0,0
+1.0,1.0,29.0,f,White,,0.0,United States,,1
+1.0,0.0,,m,White,0.0,1.0,Netherlands,0.0,0
+0.0,0.0,18.0,m,White,0.0,,Netherlands,0.0,1
+1.0,0.0,,m,White,0.0,0.0,Netherlands,0.0,0
+,1.0,27.0,f,Asian,0.0,0.0,United States,0.0,1
+,0.0,22.0,f,,1.0,0.0,Malaysia,0.0,0
+0.0,0.0,23.0,m,Asian,0.0,0.0,,0.0,0
+,,25.0,,Hispanic,0.0,0.0,United Kingdom,,1
+1.0,0.0,23.0,f,Asian,0.0,0.0,New Zealand,0.0,0
+1.0,,29.0,m,Asian,0.0,0.0,India,0.0,0
+1.0,0.0,,f,Asian,,0.0,Sri Lanka,0.0,0
+1.0,0.0,27.0,f,Asian,0.0,,India,0.0,0
+0.0,0.0,43.0,,Asian,0.0,0.0,India,0.0,0
+1.0,,26.0,f,Asian,0.0,0.0,India,,0
+1.0,0.0,,f,Asian,0.0,0.0,India,0.0,0
+0.0,0.0,,m,White,,,India,,0
+,0.0,,f,Asian,0.0,0.0,Sri Lanka,0.0,0
+,0.0,37.0,,White,0.0,,United Kingdom,,0
+0.0,0.0,28.0,f,,0.0,,United Kingdom,0.0,0
+1.0,1.0,25.0,m,,0.0,,United States,0.0,0
+,0.0,25.0,m,,0.0,0.0,India,0.0,0
+0.0,,21.0,,Unknown,0.0,,Jordan,0.0,0
+1.0,,,m,White,0.0,0.0,United Kingdom,0.0,1
+,1.0,,f,,,0.0,,0.0,1
+,1.0,,m,,0.0,0.0,Niger,0.0,0
+1.0,1.0,18.0,f,White,0.0,0.0,Romania,0.0,0
+1.0,,,m,Other,0.0,0.0,Canada,,1
+0.0,0.0,,,White,,0.0,Germany,0.0,0
+,0.0,,,Hispanic,0.0,0.0,Mexico,0.0,0
+,,33.0,m,Hispanic,0.0,0.0,Mexico,0.0,1
+1.0,1.0,,m,White,0.0,,,0.0,0
+,0.0,,f,White,0.0,0.0,United States,0.0,0
+0.0,0.0,,m,Other,0.0,0.0,Viet Nam,0.0,0
+,1.0,,m,Asian,0.0,0.0,India,0.0,1
+1.0,1.0,38.0,f,,0.0,0.0,Canada,0.0,1
+,1.0,44.0,m,Black,0.0,0.0,France,0.0,0
+0.0,1.0,,f,,0.0,,France,,0
+1.0,1.0,,,,1.0,0.0,Mexico,0.0,1
+0.0,1.0,,m,White,0.0,0.0,,0.0,0
+1.0,0.0,,f,White,0.0,1.0,United Kingdom,0.0,0
+1.0,0.0,,,White,,1.0,United Kingdom,0.0,1
+1.0,,41.0,m,Unknown,1.0,1.0,,0.0,0
+1.0,0.0,41.0,m,,0.0,0.0,,0.0,0
+0.0,,27.0,m,White,,0.0,,,0
+1.0,,46.0,,White,,1.0,United Kingdom,0.0,1
+0.0,1.0,,,White,,0.0,United States,,0
+0.0,1.0,22.0,,White,0.0,0.0,United States,0.0,1
+1.0,1.0,42.0,m,,,0.0,United Kingdom,0.0,1
+1.0,1.0,18.0,f,Asian,0.0,0.0,Viet Nam,0.0,0
+1.0,0.0,,f,White,,,United Kingdom,0.0,0
+,1.0,,,White,,0.0,,,1
+1.0,1.0,42.0,m,White,0.0,0.0,Australia,0.0,1
+,1.0,,f,White,0.0,1.0,United States,,0
+1.0,0.0,40.0,m,,0.0,0.0,AmericanSamoa,0.0,1
+0.0,,50.0,f,Unknown,0.0,0.0,,0.0,0
+0.0,0.0,38.0,m,,0.0,0.0,Egypt,,0
+1.0,1.0,26.0,f,White,,1.0,,0.0,1
+1.0,1.0,27.0,f,,0.0,0.0,,0.0,1
+,1.0,47.0,f,White,1.0,1.0,United States,0.0,1
+1.0,1.0,,,Black,1.0,1.0,United States,0.0,0
+1.0,1.0,,,White,0.0,0.0,United Kingdom,0.0,1
+1.0,0.0,19.0,f,Other,,0.0,United Kingdom,0.0,0
+0.0,0.0,32.0,m,Asian,,0.0,,,0
+0.0,,26.0,f,Unknown,,,,0.0,0
+1.0,,46.0,f,White,1.0,1.0,Australia,0.0,1
+,,29.0,m,Black,0.0,0.0,France,0.0,0
+1.0,0.0,30.0,f,Black,0.0,0.0,France,0.0,0
+1.0,,32.0,,Hispanic,,0.0,,0.0,0
+0.0,1.0,35.0,f,White,1.0,0.0,,0.0,0
+0.0,1.0,22.0,m,White,0.0,0.0,United Kingdom,0.0,1
+0.0,,19.0,f,,0.0,,Iran,0.0,0
+0.0,1.0,24.0,m,,0.0,,Iran,,0
+0.0,1.0,52.0,,Unknown,0.0,0.0,,0.0,0
+0.0,1.0,52.0,m,,,0.0,Iran,0.0,0
+1.0,0.0,,f,,,0.0,United States,0.0,0
+0.0,1.0,24.0,m,White,,0.0,United States,0.0,0
+1.0,1.0,24.0,m,White,,0.0,,,1
+,1.0,49.0,f,White,1.0,0.0,,0.0,0
+0.0,1.0,30.0,f,,0.0,0.0,Malaysia,0.0,1
+0.0,,,,Asian,0.0,1.0,Malaysia,1.0,1
+,0.0,35.0,f,White,,0.0,United Kingdom,0.0,1
+1.0,0.0,35.0,f,,1.0,,United Kingdom,0.0,1
+,0.0,37.0,f,White,0.0,1.0,United Kingdom,0.0,0
+0.0,1.0,43.0,m,White,0.0,0.0,,0.0,0
+1.0,1.0,52.0,,White,0.0,0.0,,0.0,0
+1.0,1.0,44.0,m,White,0.0,1.0,United Kingdom,,1
+1.0,1.0,46.0,f,White,,1.0,United Kingdom,0.0,0
+1.0,,,,White,0.0,1.0,Australia,0.0,0
+0.0,0.0,20.0,m,Asian,0.0,0.0,Aruba,0.0,0
+1.0,1.0,18.0,,White,0.0,,,0.0,1
+1.0,1.0,38.0,m,White,,0.0,Finland,0.0,1
+1.0,,,,,,1.0,,0.0,0
+1.0,1.0,32.0,m,,0.0,0.0,,,0
+,,,m,White,,0.0,United States,0.0,0
+1.0,1.0,22.0,f,White,0.0,0.0,,0.0,1
+0.0,1.0,19.0,,White,1.0,,United Kingdom,0.0,0
+1.0,1.0,39.0,f,White,0.0,1.0,,0.0,1
+1.0,0.0,,m,Black,0.0,0.0,,0.0,1
+0.0,1.0,19.0,,White,0.0,0.0,Iceland,0.0,0
+,0.0,18.0,m,White,0.0,,Australia,0.0,0
+,1.0,19.0,m,,0.0,0.0,Kazakhstan,1.0,0
+0.0,1.0,,f,White,,0.0,Turkey,0.0,0
+0.0,1.0,29.0,m,Asian,,0.0,New Zealand,0.0,0
+1.0,,48.0,m,,,0.0,,0.0,0
+1.0,1.0,,f,White,,1.0,Netherlands,0.0,1
+1.0,0.0,34.0,f,White,0.0,0.0,United Kingdom,,0
+,,,m,White,,0.0,Australia,0.0,0
+1.0,,,m,Unknown,0.0,0.0,Jordan,0.0,0
+1.0,0.0,47.0,m,Unknown,0.0,,,0.0,0
+1.0,1.0,44.0,m,,0.0,1.0,United Kingdom,,1
+1.0,,25.0,,White,,0.0,United States,0.0,0
+1.0,,25.0,f,White,0.0,,United States,0.0,0
+1.0,,20.0,m,White,0.0,0.0,United Kingdom,0.0,1
+1.0,1.0,43.0,m,White,,,New Zealand,,1
+,1.0,36.0,f,,,1.0,United Kingdom,0.0,1
+1.0,1.0,30.0,f,Asian,,1.0,United States,0.0,0
+,0.0,44.0,m,Black,0.0,0.0,,,0
+1.0,1.0,,,Black,0.0,0.0,United Kingdom,0.0,0
+1.0,1.0,,f,,1.0,,United Kingdom,0.0,0
+1.0,,40.0,f,Black,1.0,1.0,United Kingdom,0.0,1
+1.0,,30.0,m,Other,0.0,,United States,0.0,1
+1.0,0.0,47.0,f,White,0.0,0.0,United Kingdom,0.0,0
+1.0,1.0,21.0,,Black,0.0,0.0,Brazil,,1
+1.0,1.0,,m,,0.0,0.0,Brazil,,1
+,0.0,31.0,f,,,0.0,,0.0,1
+1.0,1.0,21.0,f,,0.0,0.0,,0.0,0
+0.0,,29.0,,Asian,0.0,0.0,United States,0.0,0
+0.0,1.0,22.0,m,White,0.0,0.0,Afghanistan,0.0,0
+,1.0,51.0,,White,1.0,0.0,United Kingdom,0.0,1
+1.0,0.0,23.0,,,0.0,0.0,,,0
+1.0,0.0,,m,,0.0,,India,,0
+,1.0,,m,Other,0.0,0.0,India,0.0,0
+1.0,1.0,22.0,,Asian,0.0,0.0,,0.0,0
+1.0,0.0,24.0,,Asian,,0.0,India,0.0,0
+1.0,0.0,26.0,f,,0.0,0.0,India,0.0,0
+1.0,0.0,33.0,f,,,0.0,,0.0,0
+1.0,0.0,23.0,m,Asian,0.0,0.0,,0.0,0
+1.0,0.0,42.0,,Asian,0.0,0.0,India,0.0,0
+,0.0,,f,Asian,0.0,0.0,,0.0,0
+1.0,0.0,,f,Asian,0.0,,New Zealand,0.0,0
+1.0,0.0,,f,Asian,,0.0,,0.0,0
+,0.0,25.0,f,Asian,0.0,0.0,India,0.0,0
+1.0,0.0,25.0,,Asian,0.0,0.0,Sri Lanka,0.0,0
+,,,f,Asian,1.0,0.0,,0.0,0
+1.0,,33.0,m,White,0.0,0.0,,0.0,0
+1.0,0.0,25.0,,Asian,0.0,0.0,,0.0,0
+0.0,0.0,25.0,m,Asian,0.0,0.0,,,0
+,0.0,24.0,m,Asian,0.0,0.0,India,0.0,0
+1.0,,27.0,f,Asian,0.0,,India,,0
+,0.0,22.0,,Asian,0.0,0.0,India,,0
+1.0,,,f,,0.0,0.0,India,0.0,0
+,0.0,,f,Asian,0.0,,,0.0,0
+1.0,0.0,,m,Asian,0.0,,India,,0
+0.0,0.0,22.0,m,Asian,,,India,0.0,0
+,,,f,Asian,0.0,,India,0.0,0
+1.0,,30.0,m,,0.0,0.0,,0.0,0
+,1.0,33.0,m,Asian,0.0,,India,,0
+1.0,0.0,24.0,f,Asian,0.0,,India,0.0,1
+1.0,0.0,22.0,,,,0.0,,0.0,0
+1.0,,22.0,,Asian,,0.0,New Zealand,,1
+,0.0,29.0,f,Asian,0.0,,,,0
+1.0,0.0,22.0,f,Asian,0.0,,India,0.0,0
+1.0,0.0,21.0,m,Asian,,0.0,,,0
+1.0,0.0,23.0,m,Asian,0.0,,,,0
+1.0,0.0,,,Other,0.0,0.0,,0.0,0
+1.0,0.0,23.0,f,,0.0,,India,0.0,0
+1.0,,,,Asian,0.0,,,,0
+0.0,0.0,,m,Asian,0.0,0.0,Sri Lanka,0.0,0
+0.0,0.0,28.0,f,Asian,,0.0,India,0.0,0
+1.0,1.0,25.0,f,White,0.0,,India,0.0,0
+1.0,0.0,22.0,m,,,0.0,Nepal,0.0,1
+,,36.0,,White,0.0,0.0,United Kingdom,,0
+0.0,0.0,27.0,f,,,0.0,,0.0,0
+,1.0,21.0,f,White,0.0,,,0.0,1
+,1.0,,m,Black,,0.0,United States,0.0,0
+1.0,0.0,,m,Black,,,Mexico,0.0,1
+1.0,1.0,18.0,,,,0.0,Indonesia,,0
+,0.0,29.0,m,Hispanic,0.0,0.0,United States,,1
+0.0,0.0,31.0,f,Unknown,,0.0,,,0
+,,37.0,,White,0.0,0.0,New Zealand,0.0,0
+1.0,0.0,17.0,,White,1.0,0.0,New Zealand,0.0,0
+,0.0,17.0,,Unknown,0.0,,New Zealand,,1
+1.0,1.0,38.0,f,White,0.0,0.0,,0.0,0
+1.0,,,,White,,0.0,,,0
+,0.0,,f,White,,,United Arab Emirates,0.0,0
+0.0,1.0,33.0,m,,,0.0,United Arab Emirates,,0
+1.0,1.0,,f,White,1.0,0.0,Jordan,0.0,0
+1.0,,,,,,0.0,Jordan,0.0,0
+0.0,0.0,33.0,f,Unknown,0.0,0.0,,0.0,0
+1.0,1.0,,f,White,0.0,1.0,Canada,0.0,1
+1.0,1.0,30.0,m,,0.0,0.0,United States,0.0,1
+1.0,,38.0,f,White,0.0,1.0,,,0
+,0.0,22.0,m,Asian,0.0,0.0,,0.0,0
+1.0,1.0,36.0,,Other,0.0,,,0.0,0
+0.0,,43.0,,,,0.0,Azerbaijan,,0
+1.0,1.0,,,Unknown,,,Pakistan,0.0,1
+1.0,1.0,20.0,f,,0.0,0.0,France,0.0,1
+,1.0,40.0,f,,1.0,,Australia,0.0,1
+1.0,0.0,25.0,m,,,0.0,,,0
+,0.0,28.0,,White,0.0,0.0,Australia,0.0,0
+0.0,0.0,,m,White,0.0,0.0,,0.0,0
+1.0,1.0,34.0,m,,0.0,0.0,United States,0.0,1
+0.0,0.0,56.0,,Unknown,0.0,0.0,,,0
+0.0,0.0,,,White,0.0,0.0,New Zealand,0.0,0
+,0.0,38.0,m,White,0.0,,United States,0.0,0
+1.0,1.0,47.0,m,White,0.0,0.0,,0.0,1
+1.0,1.0,30.0,m,Other,,0.0,United States,0.0,1
+1.0,,21.0,m,Hispanic,0.0,0.0,United States,0.0,1
+1.0,,21.0,m,White,,,,0.0,1
+,,31.0,m,,,0.0,Mexico,0.0,1
+1.0,,27.0,f,White,1.0,0.0,Czech Republic,,0
+1.0,1.0,24.0,f,,,0.0,United States,0.0,0
+1.0,1.0,35.0,m,,1.0,0.0,United Kingdom,0.0,0
+1.0,0.0,,m,Black,0.0,0.0,,0.0,0
+1.0,1.0,43.0,f,,0.0,0.0,United States,0.0,1
+1.0,1.0,44.0,m,White,,1.0,,0.0,1
+1.0,1.0,40.0,m,White,1.0,1.0,United Kingdom,0.0,1
+1.0,,,f,Hispanic,,,,0.0,1
+1.0,1.0,,m,Hispanic,0.0,0.0,United States,,0
+,1.0,,,White,1.0,1.0,,,0
+,0.0,,m,Hispanic,0.0,,United States,0.0,0
+1.0,0.0,,,White,0.0,1.0,Belgium,,1
+,,28.0,,White,,0.0,United States,0.0,0
+1.0,1.0,,m,,0.0,0.0,,0.0,1
+,0.0,26.0,m,,0.0,0.0,Canada,0.0,1
+1.0,0.0,39.0,,White,0.0,,,0.0,1
+,,31.0,f,Asian,1.0,0.0,India,0.0,0
+1.0,,,,Black,0.0,0.0,United States,0.0,0
+1.0,1.0,28.0,,White,0.0,,United States,0.0,1
+1.0,0.0,31.0,,White,,,United Kingdom,,0
+1.0,1.0,27.0,,White,1.0,,United States,0.0,1
+1.0,,28.0,m,Hispanic,0.0,0.0,Brazil,1.0,0
+1.0,1.0,31.0,m,White,0.0,,Australia,0.0,1
+,1.0,46.0,,,0.0,0.0,Philippines,0.0,0
+1.0,1.0,27.0,f,NHOPI,0.0,0.0,,0.0,1
+,1.0,,f,White,0.0,0.0,Russia,0.0,1
+,0.0,,m,Hispanic,,0.0,Mexico,,0
+,0.0,24.0,f,Unknown,,0.0,Russia,0.0,1
+1.0,0.0,35.0,,Asian,0.0,0.0,Pakistan,,0
+1.0,0.0,26.0,f,White,0.0,0.0,,0.0,1
